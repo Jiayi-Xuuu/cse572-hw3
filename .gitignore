@@ -1,0 +1,12 @@
+# Data files — too large or not in scope for the submission repo.
+archive/*
+!archive/ratings_small.csv
+
+
+# Build / scratch
+__pycache__/
+*.pyc
+.DS_Store
+_hw3_combined.*
+_hw3_style.css
+
